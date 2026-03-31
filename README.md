@@ -138,3 +138,8 @@ LEARNING OUTCOMES
 - Excel for preprocessing
 - SQL for querying
 - Power BI for visualization
+
+--------------------------------------------------
+SCREENSHOT/DEMO
+--------------------------------------------------
+
