@@ -140,6 +140,6 @@ LEARNING OUTCOMES
 - Power BI for visualization
 
 --------------------------------------------------
-SCREENSHOT/DEMO
+SCREENSHOT OF THE FINAL DASHBOARD
 --------------------------------------------------
-
+https://github.com/parangita-jkthv/End-to-End-Sales-Analytics-System/blob/main/Snapshot%20of%20the%20dashboard.png
